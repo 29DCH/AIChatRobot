@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0adc6470420466664acfb873710130ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\709d67ea31acb8da2f0df29dbc0eece8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\6d4702ffc61230093249b809bf388034\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ec1a533164696c0030da31ab5d816166\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e1a6d47e2020b603d6f2fc178e83c2f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\67cbf348759f9c42026b618a3f2709e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49a6020cfda5e201eaad5c0eac685fa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\628270cb4f231d16f7d6e16a49e79f73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c1f824e1a9f22c5222696292d892ad5c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\07065d6b3f004f0add8b0ee626548dae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bc63bb33899aea3890dcc5951b0265b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f9d41a081da2c135b2369b33a13a1f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\149486a110348be42667dbcd2bab6e97\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:27:22-62
+application
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:29:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\709d67ea31acb8da2f0df29dbc0eece8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\709d67ea31acb8da2f0df29dbc0eece8\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\6d4702ffc61230093249b809bf388034\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\6d4702ffc61230093249b809bf388034\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:35:9-35
+	android:label
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:33:9-41
+	android:roundIcon
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:34:9-54
+	android:icon
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:32:9-43
+	android:allowBackup
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.tensorflow.chatinterface.ui.ChatActivity
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:37:9-47:20
+	android:screenOrientation
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:39:13-39
+	android:windowSoftInputMode
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:38:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0adc6470420466664acfb873710130ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0adc6470420466664acfb873710130ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\709d67ea31acb8da2f0df29dbc0eece8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\709d67ea31acb8da2f0df29dbc0eece8\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\6d4702ffc61230093249b809bf388034\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\6d4702ffc61230093249b809bf388034\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ec1a533164696c0030da31ab5d816166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ec1a533164696c0030da31ab5d816166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e1a6d47e2020b603d6f2fc178e83c2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e1a6d47e2020b603d6f2fc178e83c2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\67cbf348759f9c42026b618a3f2709e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\67cbf348759f9c42026b618a3f2709e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49a6020cfda5e201eaad5c0eac685fa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49a6020cfda5e201eaad5c0eac685fa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\628270cb4f231d16f7d6e16a49e79f73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\628270cb4f231d16f7d6e16a49e79f73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c1f824e1a9f22c5222696292d892ad5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c1f824e1a9f22c5222696292d892ad5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\07065d6b3f004f0add8b0ee626548dae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\07065d6b3f004f0add8b0ee626548dae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bc63bb33899aea3890dcc5951b0265b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bc63bb33899aea3890dcc5951b0265b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f9d41a081da2c135b2369b33a13a1f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f9d41a081da2c135b2369b33a13a1f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\149486a110348be42667dbcd2bab6e97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\149486a110348be42667dbcd2bab6e97\AndroidManifest.xml:20:5-44
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		ADDED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\ChatInterface\app\src\main\AndroidManifest.xml

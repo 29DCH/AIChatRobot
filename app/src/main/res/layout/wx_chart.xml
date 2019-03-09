@@ -34,7 +34,7 @@
             android:id="@+id/usr_attr"
             android:layout_width="65dp"
             android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
             android:text="属性"
             android:textColor="@android:color/white"
             android:background="@android:color/holo_blue_light"/>

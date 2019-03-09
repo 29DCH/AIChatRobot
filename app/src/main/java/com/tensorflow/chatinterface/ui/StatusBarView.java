@@ -6,9 +6,6 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Author:liuyanguo
- * Date:2018/1/30
- * Time:16:09
  * Description:一个普通的View
  */
 
