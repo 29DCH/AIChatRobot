@@ -7,6 +7,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.ViewGroup;
+import android.view.Window;
 import android.widget.LinearLayout;
 
 import com.tensorflow.chatinterface.R;
@@ -32,7 +33,8 @@ public class BaseActivity extends AppCompatActivity {
             decorView.getChildAt(count - 1).setBackground(getDrawable(R.drawable.tpv_window_background));
         else {
             //新建一个和状态栏高宽的view
-            getWindow().setStatusBarColor(Color.TRANSPARENT);
+            Window statusBar = getWindow();
+            statusBar.setStatusBarColor(Color.TRANSPARENT);
             StatusBarView statusView = createStatusBarView(this, 0xff3F51B5, 0);
             statusView.setBackground(getDrawable(R.drawable.tpv_window_background));
             decorView.addView(statusView);
