@@ -59,3 +59,9 @@ Android调用TensorFlow模型
 Android界面设计规范
 
 Android应用开发，Android app打包部署
+
+![image](https://github.com/29DCH/AIChatRobot/blob/master/img/1.png)
+
+![image](https://github.com/29DCH/AIChatRobot/blob/master/img/2.png)
+
+![image](https://github.com/29DCH/AIChatRobot/blob/master/img/3.png)
